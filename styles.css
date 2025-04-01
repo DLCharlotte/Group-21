@@ -60,6 +60,13 @@ header nav button:hover {
     transition: transform 0.2s;
 }
 
+.card img{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: auto;
+}
+
 .card:hover {
     transform: scale(1.05);
 }
